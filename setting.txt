@@ -1,0 +1,7 @@
+1. npx create-react-app [프로젝트 명] : 프로젝트를 생성한다.
+
+2. git repository에 연결한다
+ > git remote add origin https://github.com/seungyeonkk/nwitter.git
+
+3. 불필요한 파일 삭제
+ > App.css, App.test.js, index.css, logo.svg, serviceWorker.js, setupTests.js
